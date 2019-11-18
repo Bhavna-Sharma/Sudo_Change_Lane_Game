@@ -1,4 +1,4 @@
-Sudo Change Lane is game bassed on ubuntu operating system.This game is purely based on embedded C by using physical programmable 
+Sudo Change Lane is game based on ubuntu operating system.This game is purely based on embedded C by using physical programmable 
 circuit board (Arduino microcontroller) which can be easily played on OLED by using a joystick.
 In this game, the OLED screen will be divided into 4 sections horizontally:
 Section 1(128*10 pixels): This section will be showing the scores gained by the player.
