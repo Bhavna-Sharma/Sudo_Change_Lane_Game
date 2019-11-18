@@ -1,8 +1,0 @@
-In the game the oled screen will be divided into 4 sections horizontally:
-Section 1(128*10 pixels): This section will be showing the scores gained by the player.
-Section 2, Section 3, Section 4 (128*18 pixels each): These sections will be for playing game in which there will be 1 user/player
-car which the person playing can move vertically in any one of the lanes/sections out of the three and it will be on the left most
-side of the screen, whereas from the right side out of three sections/lanes two enemy cars will be coming randomly in any two 
-lanes/sections towards left f the screen leaving one lane empty.
-The game idea is that user/player have to change the lane by moving up or down and coming to the empty lane the enemy car is not
-get saved from the collision with the enemy cars which are moving from right to left of the screen horizontally.
