@@ -2,7 +2,7 @@ Sudo Change Lane is game based on ubuntu operating system.This game is purely ba
 circuit board (Arduino microcontroller) which can be easily played on OLED by using a joystick.
 In this game, the OLED screen will be divided into 4 sections horizontally:
 Section 1(128*10 pixels): This section will be showing the scores gained by the player.
-Section 2, Section 3, Section 4 (128*18 pixels each): These sections will be for playing game in which there will be 1 user/player
+Section 2, Section 3 and Section 4 (128*18 pixels each): These sections will be for playing game in which there will be 1 user/player
 car which the person playing can move vertically in any one of the lanes/sections out of the three and it will be on the left most
 side of the screen, whereas from the right side out of three sections/lanes two enemy cars will be coming randomly in any two 
 lanes/sections towards left f the screen leaving one lane empty. This will satisfy the demand of moving objexts from the one side 
