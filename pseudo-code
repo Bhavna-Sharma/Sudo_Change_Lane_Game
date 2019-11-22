@@ -1,8 +1,11 @@
 # Sudo_Change_Lane_Game
 Mini Project, making a mini arcade game. 
+Game Engine Design in Free RTos consists of data strcuture and a set of suitble tasks to define the game. 
 Different kinds of task will be designed for this game:
-TASK 1:Creating the characters along with its performance of task. Two cars will be created in which user car can move upward and forward
+TASK 1:Creating the characters along with its performance of task/operstion in game.
+Two cars will be created in which user car can move upward and forward
 however enemy car can move from the left side of the screen towards right from any two sections to collide with the user.
 TASK 2:Creating vImpact Tasks in which highest priority will be explained or we can say relationship between every character will be explained. 
-This task will take care of every corrdinates and characters witihin the parameters defined.
-TASK 3: VRun Game: This will intialze the whole game in which score keeping will be defined.
+This task will take care of every corrdinates and characters witihin the parameters defined.Basically,it will explain the collosion tasks.
+TASK 3: VRun Game: This will intialze the whole game along with score keeping will be defined.
+Task 4: 
