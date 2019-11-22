@@ -1,8 +1,9 @@
 For constructing the a simple Acarde game we will be using following items:
 1. Arduino
-2. Adafruit OLED (128*64bit)
+2. Adafruit OLED (128*64bit).
 3. NXP  LPC1769 
 4. Joystick and Buttons
 5. Wires for connection
 6. Breadboard
 7. Breakable Pins
+
