@@ -1,6 +1,6 @@
 Sudo Change Lane is game based on ubuntu operating system which is RTOS based Arcade game.This game is purely based on embedded C by using physical programmable 
 circuit board (Arduino micro-controller) which can be easily played on OLED by using a joystick. Game will use fixed graphic elements which
-is known as sprites. These graphich elements are charcters which are cars in our game.
+is known as sprites. These graphics elements are charcters which are cars in our game.
 
 In this game, the OLED screen will be divided into 4 sections horizontally:
 
