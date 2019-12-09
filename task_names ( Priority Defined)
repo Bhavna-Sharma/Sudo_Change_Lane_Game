@@ -1,0 +1,10 @@
+There are follwing tasks defined in our game engine:
+
+1. impact_task
+2. user_car_task
+3. enemy_car_task
+4. rungame_task
+
+Priority will be defined as:
+
+Player Task wiil have first priority, Impact task will have second ad last will be given to the run game.
