@@ -21,11 +21,11 @@ SCREEN NAMES     	PIXEL DESCRIPTION (0 to 63)      	PIXELS DEFINED TO EACH SECTI
 
 Score Board      	0 to 11	                          12 pixels
 Division Line	    12                               	1 pixel
-Screen 1         	13 to 28                        	16 pixels
+Road 1          	13 to 28                        	16 pixels
 Division Line   	29                              	1 pixel
-Screen 2        	30 to 45	                        16 pixels
+Road 2          	30 to 45	                        16 pixels
 Division Line    	46                               	1 pixel
-Screen 3	        47 to 63                         	16 pixels
+Road 3	          47 to 63                         	16 pixels
 
 CHARCTERS DESCRIPTION: Ref(IMAGE 1)
 
