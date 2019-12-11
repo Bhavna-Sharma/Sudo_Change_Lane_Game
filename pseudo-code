@@ -3,7 +3,8 @@ Mini Project, making a mini arcade game.
 Game Engine Design in Free RTos consists of data strcuture and a set of suitble tasks to define the game. 
 Different kinds of task will be designed for this game:
 
-TASK 1: User_Car_task: In it user car can move upward and downward to save itslef from the enemy cars.
+TASK 1: User_Car_task: In it user car can move upward and downward to save itslef from the enemy cars.Even, character's tasks will be
+defined.
 
 Task 2: enemy_car_task: there will be two enemy cars which will randomly enter screen from the right and move horizontally towards
 left, and the user can have to save itself by coming to the third section by moving up or down accordingly.
