@@ -1,5 +1,6 @@
 Arduino have a serial port to coomunicate with other devices. In this project, we will use LPC 1769 UART pins.
 It will use RX and TX pins of Arduino for the serial communication with LPC1769.
 On Uno, Nano, Mini, and Mega, pins 0 and 1 are used for communication with the computer. Connecting anything to these pins can 
-interfere with that communication, including causing failed uploads to the board
+interfere with that communication, including causing failed uploads to the board. We have used TX and RX pins of the Arudinor to connect 
+with UART pins J10 and J9 of LPC 1769.
 
