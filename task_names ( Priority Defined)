@@ -4,6 +4,7 @@ There are follwing tasks defined in our game engine:
 2. user_car_task
 3. enemy_car_task
 4. rungame_task
+5. score_task
 
 Priority will be defined as:
 
