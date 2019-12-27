@@ -7,3 +7,22 @@ For constructing the a simple Acarde game we will be using following items:
 6. Breadboard
 7. Breakable Pins
 
+Step 1: It involves the connections between Arduino and OLED​
+Connections between Arduino Leonardo and OLED 128x64. To connect Arduino with OLED, we only need five pins to operate in which serial clock and SDA is serial data. As SPI is faster than I2C so we will short the pins of OLED for smooth running of the display. Clk will be the SCL un this case.
+TABLE SHOWING PINS CONNECTIONS:
+ 
+Arduino Leonardo
+OLED 128x64
+3.3V of Arduino
+Vin of OLED (for input)
+Ground (out of any two pins)
+GND
+Pin 2 /PD1
+Data
+Pin 3 /PD0
+clk
+Pin 4 /PD4
+Rst
+ 
+Point to be noted: If we will flip around your OLED, you will see that this display has indication for the conversion of SPI into I2C. You might need to shot it. Then you can use SPI OLED as I2C one.
+
